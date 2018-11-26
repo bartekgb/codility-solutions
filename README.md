@@ -2,7 +2,9 @@
 Solutions for codility.com training tasks (python)
 
 ## BinaryGap
-Convert number to binary representation string, partition it by '1', count the longest '0' sequence
+1 Convert number to binary representation string, partition it by '1', count the longest '0' sequence
+
+2 Use right bit shift and logical 'and' operator to iterate over integer bits
 
 ## PermMissingElem
 Sum all [1..(N + 1)] elements and distract sum of actual array elements.
