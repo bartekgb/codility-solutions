@@ -1,6 +1,9 @@
 # codility-solutions
 Solutions for codility.com training tasks (python)
 
+## BinaryGap
+Convert number to binary representation string, partition it by '1', count the longest '0' sequence
+
 ## PermMissingElem
 Sum all [1..(N + 1)] elements and distract sum of actual array elements.
 
