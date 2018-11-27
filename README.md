@@ -6,6 +6,9 @@ Solutions for codility.com training tasks (python)
 
 2 Use right bit shift and logical 'and' operator to iterate over integer bits
 
+## CyclicRotation
+Auxiliary function shifting array by one element called K times. Optimize by rotating only 'k modulo len(array)' times 
+
 ## PermMissingElem
 Sum all [1..(N + 1)] elements and distract sum of actual array elements.
 
