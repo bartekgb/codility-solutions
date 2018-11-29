@@ -16,7 +16,9 @@ Sum all [1..(N + 1)] elements and distract sum of actual array elements.
 Use modulo (%) and floor (//) operators to compute number of steps needed.
 
 ## OddOccurrencesInArray
-Xor all array elements. Xor first array element by 0. Last xor operation result is the missing element.
+1 Xor all array elements. Xor first array element by 0. Last xor operation result is the missing element. ( O(n) time complexity) )
+
+2 Use list "count()" method to get count of all array elements ( O(n**2) time complexity )
 
 ## TapeEquilibrium
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|. 
